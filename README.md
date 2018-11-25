@@ -10,7 +10,6 @@ Current implementation gets the data about the car using the high mobility kit. 
 ## Video Demo: 
 https://youtu.be/pF8Bge-L8oM
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pF8Bge-L8oM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Screenshoots:
 ![Mockup for feature A](https://raw.githubusercontent.com/Bezzanin/daimler-need-for-charge/master/screenshoots/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20-%202018-11-25%20at%2008.50.32.png)
