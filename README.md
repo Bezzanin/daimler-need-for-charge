@@ -1,4 +1,4 @@
-# Need For Charge project for EQ Daimler challange.
+# Need For Charge project for EQ Daimler challenge.
 
 ## Slogan: When your car knows you best
 
